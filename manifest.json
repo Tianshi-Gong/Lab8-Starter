@@ -1,6 +1,6 @@
 {
     "name": "Lab8-Starter",
-    "short_name": "Tianshi Gong",
+    "short_name": "Tianshi-Gong",
     "description": "PWA for lab8",
     "start_url": "/index.html",
     "display": "standalone",
