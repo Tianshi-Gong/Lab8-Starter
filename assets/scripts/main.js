@@ -62,7 +62,7 @@ function initializeServiceWorker() {
             console.error('ServiceWorker registration failed: ', error);
         });
     });
-}
+  }
 }
 
 /**
