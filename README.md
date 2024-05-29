@@ -1,1 +1,4 @@
 # Lab8-Starter
+Tianshi Gong
+https://tianshi-gong.github.io/Lab8-Starter/
+Graceful degradation is a design philosophy where an application is built to work on modern browsers with advanced features, while still providing a functional experience on older browsers that may not support these features. Service workers play a crucial role in graceful degradation by enabling offline capabilities, caching, and background synchronization for web applications. If a browser does not support service workers, the application should still function with reduced capabilities, ensuring a consistent user experience. This relationship allows developers to enhance the application for modern browsers while maintaining core functionality across all browsers, thereby gracefully degrading the experience without completely breaking it.
